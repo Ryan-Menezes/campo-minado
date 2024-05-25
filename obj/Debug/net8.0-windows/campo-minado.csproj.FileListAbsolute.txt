@@ -32,3 +32,4 @@ C:\laragon\www\campo-minado\obj\Debug\net8.0-windows\refint\campo-minado.dll
 C:\laragon\www\campo-minado\obj\Debug\net8.0-windows\campo-minado.pdb
 C:\laragon\www\campo-minado\obj\Debug\net8.0-windows\campo-minado.genruntimeconfig.cache
 C:\laragon\www\campo-minado\obj\Debug\net8.0-windows\ref\campo-minado.dll
+C:\laragon\www\campo-minado\obj\Debug\net8.0-windows\campo-minado.sourcelink.json
