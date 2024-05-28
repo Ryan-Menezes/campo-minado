@@ -93,7 +93,7 @@
             btn_00.TabIndex = 0;
             btn_00.TabStop = false;
             btn_00.UseVisualStyleBackColor = false;
-            btn_00.Click += btn_00_Click;
+            btn_00.MouseDown += btn_00_Click;
             // 
             // btn_01
             // 
@@ -104,7 +104,7 @@
             btn_01.TabIndex = 1;
             btn_01.TabStop = false;
             btn_01.UseVisualStyleBackColor = false;
-            btn_01.Click += btn_01_Click;
+            btn_01.MouseDown += btn_01_Click;
             // 
             // btn_06
             // 
@@ -115,7 +115,7 @@
             btn_06.TabIndex = 4;
             btn_06.TabStop = false;
             btn_06.UseVisualStyleBackColor = false;
-            btn_06.Click += btn_06_Click;
+            btn_06.MouseDown += btn_06_Click;
             // 
             // btn_05
             // 
@@ -126,7 +126,7 @@
             btn_05.TabIndex = 5;
             btn_05.TabStop = false;
             btn_05.UseVisualStyleBackColor = false;
-            btn_05.Click += btn_05_Click;
+            btn_05.MouseDown += btn_05_Click;
             // 
             // btn_02
             // 
@@ -137,7 +137,7 @@
             btn_02.TabIndex = 6;
             btn_02.TabStop = false;
             btn_02.UseVisualStyleBackColor = false;
-            btn_02.Click += btn_02_Click;
+            btn_02.MouseDown += btn_02_Click;
             // 
             // btn_04
             // 
@@ -148,7 +148,7 @@
             btn_04.TabIndex = 7;
             btn_04.TabStop = false;
             btn_04.UseVisualStyleBackColor = false;
-            btn_04.Click += btn_04_Click;
+            btn_04.MouseDown += btn_04_Click;
             // 
             // btn_03
             // 
@@ -159,7 +159,7 @@
             btn_03.TabIndex = 8;
             btn_03.TabStop = false;
             btn_03.UseVisualStyleBackColor = false;
-            btn_03.Click += btn_03_Click;
+            btn_03.MouseDown += btn_03_Click;
             // 
             // btn_13
             // 
@@ -170,7 +170,7 @@
             btn_13.TabIndex = 15;
             btn_13.TabStop = false;
             btn_13.UseVisualStyleBackColor = false;
-            btn_13.Click += btn_13_Click;
+            btn_13.MouseDown += btn_13_Click;
             // 
             // btn_14
             // 
@@ -181,7 +181,7 @@
             btn_14.TabIndex = 14;
             btn_14.TabStop = false;
             btn_14.UseVisualStyleBackColor = false;
-            btn_14.Click += btn_14_Click;
+            btn_14.MouseDown += btn_14_Click;
             // 
             // btn_12
             // 
@@ -192,7 +192,7 @@
             btn_12.TabIndex = 13;
             btn_12.TabStop = false;
             btn_12.UseVisualStyleBackColor = false;
-            btn_12.Click += btn_12_Click;
+            btn_12.MouseDown += btn_12_Click;
             // 
             // btn_15
             // 
@@ -203,7 +203,7 @@
             btn_15.TabIndex = 12;
             btn_15.TabStop = false;
             btn_15.UseVisualStyleBackColor = false;
-            btn_15.Click += btn_15_Click;
+            btn_15.MouseDown += btn_15_Click;
             // 
             // btn_16
             // 
@@ -214,7 +214,7 @@
             btn_16.TabIndex = 11;
             btn_16.TabStop = false;
             btn_16.UseVisualStyleBackColor = false;
-            btn_16.Click += btn_16_Click;
+            btn_16.MouseDown += btn_16_Click;
             // 
             // btn_11
             // 
@@ -225,7 +225,7 @@
             btn_11.TabIndex = 10;
             btn_11.TabStop = false;
             btn_11.UseVisualStyleBackColor = false;
-            btn_11.Click += btn_11_Click;
+            btn_11.MouseDown += btn_11_Click;
             // 
             // btn_10
             // 
@@ -236,7 +236,7 @@
             btn_10.TabIndex = 9;
             btn_10.TabStop = false;
             btn_10.UseVisualStyleBackColor = false;
-            btn_10.Click += btn_10_Click;
+            btn_10.MouseDown += btn_10_Click;
             // 
             // btn_23
             // 
@@ -247,7 +247,7 @@
             btn_23.TabIndex = 22;
             btn_23.TabStop = false;
             btn_23.UseVisualStyleBackColor = false;
-            btn_23.Click += btn_23_Click;
+            btn_23.MouseDown += btn_23_Click;
             // 
             // btn_24
             // 
@@ -258,7 +258,7 @@
             btn_24.TabIndex = 21;
             btn_24.TabStop = false;
             btn_24.UseVisualStyleBackColor = false;
-            btn_24.Click += btn_24_Click;
+            btn_24.MouseDown += btn_24_Click;
             // 
             // btn_22
             // 
@@ -269,7 +269,7 @@
             btn_22.TabIndex = 20;
             btn_22.TabStop = false;
             btn_22.UseVisualStyleBackColor = false;
-            btn_22.Click += btn_22_Click;
+            btn_22.MouseDown += btn_22_Click;
             // 
             // btn_25
             // 
@@ -280,7 +280,7 @@
             btn_25.TabIndex = 19;
             btn_25.TabStop = false;
             btn_25.UseVisualStyleBackColor = false;
-            btn_25.Click += btn_25_Click;
+            btn_25.MouseDown += btn_25_Click;
             // 
             // btn_26
             // 
@@ -291,7 +291,7 @@
             btn_26.TabIndex = 18;
             btn_26.TabStop = false;
             btn_26.UseVisualStyleBackColor = false;
-            btn_26.Click += btn_26_Click;
+            btn_26.MouseDown += btn_26_Click;
             // 
             // btn_21
             // 
@@ -302,7 +302,7 @@
             btn_21.TabIndex = 17;
             btn_21.TabStop = false;
             btn_21.UseVisualStyleBackColor = false;
-            btn_21.Click += btn_21_Click;
+            btn_21.MouseDown += btn_21_Click;
             // 
             // btn_20
             // 
@@ -313,7 +313,7 @@
             btn_20.TabIndex = 16;
             btn_20.TabStop = false;
             btn_20.UseVisualStyleBackColor = false;
-            btn_20.Click += btn_20_Click;
+            btn_20.MouseDown += btn_20_Click;
             // 
             // btn_33
             // 
@@ -324,7 +324,7 @@
             btn_33.TabIndex = 29;
             btn_33.TabStop = false;
             btn_33.UseVisualStyleBackColor = false;
-            btn_33.Click += btn_33_Click;
+            btn_33.MouseDown += btn_33_Click;
             // 
             // btn_34
             // 
@@ -335,7 +335,7 @@
             btn_34.TabIndex = 28;
             btn_34.TabStop = false;
             btn_34.UseVisualStyleBackColor = false;
-            btn_34.Click += btn_34_Click;
+            btn_34.MouseDown += btn_34_Click;
             // 
             // btn_32
             // 
@@ -346,7 +346,7 @@
             btn_32.TabIndex = 27;
             btn_32.TabStop = false;
             btn_32.UseVisualStyleBackColor = false;
-            btn_32.Click += btn_32_Click;
+            btn_32.MouseDown += btn_32_Click;
             // 
             // btn_35
             // 
@@ -357,7 +357,7 @@
             btn_35.TabIndex = 26;
             btn_35.TabStop = false;
             btn_35.UseVisualStyleBackColor = false;
-            btn_35.Click += btn_35_Click;
+            btn_35.MouseDown += btn_35_Click;
             // 
             // btn_36
             // 
@@ -368,7 +368,7 @@
             btn_36.TabIndex = 25;
             btn_36.TabStop = false;
             btn_36.UseVisualStyleBackColor = false;
-            btn_36.Click += btn_36_Click;
+            btn_36.MouseDown += btn_36_Click;
             // 
             // btn_31
             // 
@@ -379,7 +379,7 @@
             btn_31.TabIndex = 24;
             btn_31.TabStop = false;
             btn_31.UseVisualStyleBackColor = false;
-            btn_31.Click += btn_31_Click;
+            btn_31.MouseDown += btn_31_Click;
             // 
             // btn_30
             // 
@@ -390,7 +390,7 @@
             btn_30.TabIndex = 23;
             btn_30.TabStop = false;
             btn_30.UseVisualStyleBackColor = false;
-            btn_30.Click += btn_30_Click;
+            btn_30.MouseDown += btn_30_Click;
             // 
             // btn_43
             // 
@@ -401,7 +401,7 @@
             btn_43.TabIndex = 36;
             btn_43.TabStop = false;
             btn_43.UseVisualStyleBackColor = false;
-            btn_43.Click += btn_43_Click;
+            btn_43.MouseDown += btn_43_Click;
             // 
             // btn_44
             // 
@@ -412,7 +412,7 @@
             btn_44.TabIndex = 35;
             btn_44.TabStop = false;
             btn_44.UseVisualStyleBackColor = false;
-            btn_44.Click += btn_44_Click;
+            btn_44.MouseDown += btn_44_Click;
             // 
             // btn_42
             // 
@@ -423,7 +423,7 @@
             btn_42.TabIndex = 34;
             btn_42.TabStop = false;
             btn_42.UseVisualStyleBackColor = false;
-            btn_42.Click += btn_42_Click;
+            btn_42.MouseDown += btn_42_Click;
             // 
             // btn_45
             // 
@@ -434,7 +434,7 @@
             btn_45.TabIndex = 33;
             btn_45.TabStop = false;
             btn_45.UseVisualStyleBackColor = false;
-            btn_45.Click += btn_45_Click;
+            btn_45.MouseDown += btn_45_Click;
             // 
             // btn_46
             // 
@@ -445,7 +445,7 @@
             btn_46.TabIndex = 32;
             btn_46.TabStop = false;
             btn_46.UseVisualStyleBackColor = false;
-            btn_46.Click += btn_46_Click;
+            btn_46.MouseDown += btn_46_Click;
             // 
             // btn_41
             // 
@@ -456,7 +456,7 @@
             btn_41.TabIndex = 31;
             btn_41.TabStop = false;
             btn_41.UseVisualStyleBackColor = false;
-            btn_41.Click += btn_41_Click;
+            btn_41.MouseDown += btn_41_Click;
             // 
             // btn_40
             // 
@@ -467,7 +467,7 @@
             btn_40.TabIndex = 30;
             btn_40.TabStop = false;
             btn_40.UseVisualStyleBackColor = false;
-            btn_40.Click += btn_40_Click;
+            btn_40.MouseDown += btn_40_Click;
             // 
             // btn_53
             // 
@@ -478,7 +478,7 @@
             btn_53.TabIndex = 43;
             btn_53.TabStop = false;
             btn_53.UseVisualStyleBackColor = false;
-            btn_53.Click += btn_53_Click;
+            btn_53.MouseDown += btn_53_Click;
             // 
             // btn_54
             // 
@@ -489,7 +489,7 @@
             btn_54.TabIndex = 42;
             btn_54.TabStop = false;
             btn_54.UseVisualStyleBackColor = false;
-            btn_54.Click += btn_54_Click;
+            btn_54.MouseDown += btn_54_Click;
             // 
             // btn_52
             // 
@@ -500,7 +500,7 @@
             btn_52.TabIndex = 41;
             btn_52.TabStop = false;
             btn_52.UseVisualStyleBackColor = false;
-            btn_52.Click += btn_52_Click;
+            btn_52.MouseDown += btn_52_Click;
             // 
             // btn_55
             // 
@@ -511,7 +511,7 @@
             btn_55.TabIndex = 40;
             btn_55.TabStop = false;
             btn_55.UseVisualStyleBackColor = false;
-            btn_55.Click += btn_55_Click;
+            btn_55.MouseDown += btn_55_Click;
             // 
             // btn_56
             // 
@@ -522,7 +522,7 @@
             btn_56.TabIndex = 39;
             btn_56.TabStop = false;
             btn_56.UseVisualStyleBackColor = false;
-            btn_56.Click += btn_56_Click;
+            btn_56.MouseDown += btn_56_Click;
             // 
             // btn_51
             // 
@@ -533,7 +533,7 @@
             btn_51.TabIndex = 38;
             btn_51.TabStop = false;
             btn_51.UseVisualStyleBackColor = false;
-            btn_51.Click += btn_51_Click;
+            btn_51.MouseDown += btn_51_Click;
             // 
             // btn_50
             // 
@@ -544,7 +544,7 @@
             btn_50.TabIndex = 37;
             btn_50.TabStop = false;
             btn_50.UseVisualStyleBackColor = false;
-            btn_50.Click += btn_50_Click;
+            btn_50.MouseDown += btn_50_Click;
             // 
             // btn_63
             // 
@@ -555,7 +555,7 @@
             btn_63.TabIndex = 50;
             btn_63.TabStop = false;
             btn_63.UseVisualStyleBackColor = false;
-            btn_63.Click += btn_63_Click;
+            btn_63.MouseDown += btn_63_Click;
             // 
             // btn_64
             // 
@@ -566,7 +566,7 @@
             btn_64.TabIndex = 49;
             btn_64.TabStop = false;
             btn_64.UseVisualStyleBackColor = false;
-            btn_64.Click += btn_64_Click;
+            btn_64.MouseDown += btn_64_Click;
             // 
             // btn_62
             // 
@@ -577,7 +577,7 @@
             btn_62.TabIndex = 48;
             btn_62.TabStop = false;
             btn_62.UseVisualStyleBackColor = false;
-            btn_62.Click += btn_62_Click;
+            btn_62.MouseDown += btn_62_Click;
             // 
             // btn_65
             // 
@@ -588,7 +588,7 @@
             btn_65.TabIndex = 47;
             btn_65.TabStop = false;
             btn_65.UseVisualStyleBackColor = false;
-            btn_65.Click += btn_65_Click;
+            btn_65.MouseDown += btn_65_Click;
             // 
             // btn_66
             // 
@@ -599,7 +599,7 @@
             btn_66.TabIndex = 46;
             btn_66.TabStop = false;
             btn_66.UseVisualStyleBackColor = false;
-            btn_66.Click += btn_66_Click;
+            btn_66.MouseDown += btn_66_Click;
             // 
             // btn_61
             // 
@@ -610,7 +610,7 @@
             btn_61.TabIndex = 45;
             btn_61.TabStop = false;
             btn_61.UseVisualStyleBackColor = false;
-            btn_61.Click += btn_61_Click;
+            btn_61.MouseDown += btn_61_Click;
             // 
             // btn_60
             // 
@@ -621,7 +621,7 @@
             btn_60.TabIndex = 44;
             btn_60.TabStop = false;
             btn_60.UseVisualStyleBackColor = false;
-            btn_60.Click += btn_60_Click;
+            btn_60.MouseDown += btn_60_Click;
             // 
             // txt_flags
             // 

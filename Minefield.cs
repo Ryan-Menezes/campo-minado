@@ -11,13 +11,15 @@
     private Cell[][] cells = new Cell[ROWS][];
 
     private Bitmap image_bomb;
+    private Bitmap image_flag;
     private TextBox txt_time;
     private TextBox txt_flags;
 
-    public Minefield(Cell[][] cells, Bitmap image_bomb, TextBox txt_time, TextBox txt_flags)
+    public Minefield(Cell[][] cells, Bitmap image_bomb, Bitmap image_flag, TextBox txt_time, TextBox txt_flags)
 	{
         this.cells = cells;
         this.image_bomb = image_bomb;
+        this.image_flag = image_flag;
         this.txt_time = txt_time;
         this.txt_flags = txt_flags;
 
@@ -26,7 +28,7 @@
 
     public void clickCell(int row, int col)
     {
-        if (!isValidCell(row, col)) return;
+        if (!isValidCell(row, col) || cells[row][col].isFlag) return;
 
         if (cells[row][col].isBomb())
         {
@@ -59,6 +61,11 @@
         activeCell(row - 1, col + 1);
         activeCell(row - 1, col - 1);
         activeCell(row + 1, col - 1);
+    }
+
+    public void flagCell(int row, int col)
+    {
+        cells[row][col].flag(image_flag);
     }
 
     private void reset()
